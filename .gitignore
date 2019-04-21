@@ -1,6 +1,6 @@
 # ignore datasets
-datasets/rumoureval-2019-test-data
-datasets/rumoureval-2019-training-data
+rumoureval-2019-test-data/
+rumoureval-2019-training-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
