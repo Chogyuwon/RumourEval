@@ -2,6 +2,13 @@
 rumoureval-2019-test-data/
 rumoureval-2019-training-data/
 
+# ignore .vscode
+.vscode/
+
+# ignore model_saved
+model_saved/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

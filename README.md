@@ -221,12 +221,12 @@ You can download RumourEval Dataset from  [CodaLab](https://competitions.codalab
 
 |data |source |count|
 |---  |---    |---  |
-|train|reddit |698  |
-|     |twitter|4519 |
-|dev  |reddit |436  |
-|     |twitter|1049 |
-|test |reddit |25   |
-|     |twitter|28   |
+|train|reddit |     |
+|     |twitter|     |
+|dev  |reddit |     |
+|     |twitter|     |
+|test |reddit |     |
+|     |twitter|     |
 
 
 
