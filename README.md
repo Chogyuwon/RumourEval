@@ -3,13 +3,13 @@ SemEval-2019 Task-7 : <https://competitions.codalab.org/competitions/19938>
 
 
 
-### Welcome to RumourEval 2019!
+## Welcome to RumourEval 2019!
 
 The core mission is to automatically determine the veracity of rumours. The task falls into two parts; task A, in which responses to a rumourous post are classified according to stance, and task B, in which the statements themselves are classified for veracity. Each is described in more detail below.
 
 
 
-#### Task A (SDQC)
+### Task A (SDQC)
 
 Related to the objective of predicting a rumour's veracity, the first subtask will deal with the complementary objective of tracking how other sources orient to the accuracy of the rumourous story. A key step in the analysis of the surrounding discourse is to determine how other users in social media regard the rumour. 
 
@@ -35,7 +35,7 @@ Each tweet in the tree-structured thread will have to be categorized into one of
 
 
 
-#### Task B (verification)
+### Task B (verification)
 
 The goal of the second subtask is to predict the veracity of a given rumour. 
 
@@ -51,7 +51,7 @@ In practice, however, many claims are hard to verify; for example, there were ma
 
 
 
-#### Leaderboard
+### Leaderboard
 
 <strong>Latest news!</strong>&nbsp;The competition has ended. Thank you to all teams who showed interest and made submissions. The final leaderboard is below.
 
@@ -204,7 +204,7 @@ You can also join the <a href="https://groups.google.com/forum/#!forum/rumoureva
 
 
 
-#### Organizers :
+### Organizers :
 
 - Codalab lead and Reddit data: Genevieve Gorrell
 - Twitter new (test) data: Ahmet Aker
@@ -219,9 +219,14 @@ You can also join the <a href="https://groups.google.com/forum/#!forum/rumoureva
 You can download RumourEval Dataset from  [CodaLab](https://competitions.codalab.org/competitions/19938)
 
 
-
-
-
+|data |source |count|
+|---  |---    |---  |
+|train|reddit |698  |
+|     |twitter|4519 |
+|dev  |reddit |436  |
+|     |twitter|1049 |
+|test |reddit |25   |
+|     |twitter|28   |
 
 
 
